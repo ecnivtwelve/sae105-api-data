@@ -1,5 +1,5 @@
 const pokemonData = {
-  "1": {
+  1: {
     "identifier": "bulbasaur",
     "height": 7,
     "weight": 69,
@@ -35,7 +35,7 @@ const pokemonData = {
       "speed": 45
     }
   },
-  "2": {
+  2: {
     "identifier": "ivysaur",
     "height": 10,
     "weight": 130,
@@ -72,7 +72,7 @@ const pokemonData = {
       "speed": 60
     }
   },
-  "3": {
+  3: {
     "identifier": "venusaur",
     "height": 20,
     "weight": 1000,
@@ -108,7 +108,7 @@ const pokemonData = {
       "speed": 80
     }
   },
-  "4": {
+  4: {
     "identifier": "charmander",
     "height": 6,
     "weight": 85,
@@ -141,7 +141,7 @@ const pokemonData = {
       "speed": 65
     }
   },
-  "5": {
+  5: {
     "identifier": "charmeleon",
     "height": 11,
     "weight": 190,
@@ -175,7 +175,7 @@ const pokemonData = {
       "speed": 80
     }
   },
-  "6": {
+  6: {
     "identifier": "charizard",
     "height": 17,
     "weight": 905,
@@ -211,7 +211,7 @@ const pokemonData = {
       "speed": 100
     }
   },
-  "7": {
+  7: {
     "identifier": "squirtle",
     "height": 5,
     "weight": 90,
@@ -244,7 +244,7 @@ const pokemonData = {
       "speed": 43
     }
   },
-  "8": {
+  8: {
     "identifier": "wartortle",
     "height": 10,
     "weight": 225,
@@ -278,7 +278,7 @@ const pokemonData = {
       "speed": 58
     }
   },
-  "9": {
+  9: {
     "identifier": "blastoise",
     "height": 16,
     "weight": 855,
@@ -311,7 +311,7 @@ const pokemonData = {
       "speed": 78
     }
   },
-  "10": {
+  10: {
     "identifier": "caterpie",
     "height": 3,
     "weight": 29,
@@ -344,7 +344,7 @@ const pokemonData = {
       "speed": 45
     }
   },
-  "11": {
+  11: {
     "identifier": "metapod",
     "height": 7,
     "weight": 99,
@@ -378,7 +378,7 @@ const pokemonData = {
       "speed": 30
     }
   },
-  "12": {
+  12: {
     "identifier": "butterfree",
     "height": 11,
     "weight": 320,
@@ -414,7 +414,7 @@ const pokemonData = {
       "speed": 70
     }
   },
-  "13": {
+  13: {
     "identifier": "weedle",
     "height": 3,
     "weight": 32,
@@ -450,7 +450,7 @@ const pokemonData = {
       "speed": 50
     }
   },
-  "14": {
+  14: {
     "identifier": "kakuna",
     "height": 6,
     "weight": 100,
@@ -487,7 +487,7 @@ const pokemonData = {
       "speed": 35
     }
   },
-  "15": {
+  15: {
     "identifier": "beedrill",
     "height": 10,
     "weight": 295,
@@ -523,7 +523,7 @@ const pokemonData = {
       "speed": 75
     }
   },
-  "16": {
+  16: {
     "identifier": "pidgey",
     "height": 3,
     "weight": 18,
@@ -559,7 +559,7 @@ const pokemonData = {
       "speed": 56
     }
   },
-  "17": {
+  17: {
     "identifier": "pidgeotto",
     "height": 11,
     "weight": 300,
@@ -596,7 +596,7 @@ const pokemonData = {
       "speed": 71
     }
   },
-  "18": {
+  18: {
     "identifier": "pidgeot",
     "height": 15,
     "weight": 395,
@@ -632,7 +632,7 @@ const pokemonData = {
       "speed": 101
     }
   },
-  "19": {
+  19: {
     "identifier": "rattata",
     "height": 3,
     "weight": 35,
@@ -664,7 +664,7 @@ const pokemonData = {
       "speed": 72
     }
   },
-  "20": {
+  20: {
     "identifier": "raticate",
     "height": 7,
     "weight": 185,
@@ -696,7 +696,7 @@ const pokemonData = {
       "speed": 97
     }
   },
-  "21": {
+  21: {
     "identifier": "spearow",
     "height": 3,
     "weight": 20,
@@ -731,7 +731,7 @@ const pokemonData = {
       "speed": 70
     }
   },
-  "22": {
+  22: {
     "identifier": "fearow",
     "height": 12,
     "weight": 380,
@@ -766,7 +766,7 @@ const pokemonData = {
       "speed": 100
     }
   },
-  "23": {
+  23: {
     "identifier": "ekans",
     "height": 20,
     "weight": 69,
@@ -798,7 +798,7 @@ const pokemonData = {
       "speed": 55
     }
   },
-  "24": {
+  24: {
     "identifier": "arbok",
     "height": 35,
     "weight": 650,
@@ -830,7 +830,7 @@ const pokemonData = {
       "speed": 80
     }
   },
-  "25": {
+  25: {
     "identifier": "pikachu",
     "height": 4,
     "weight": 60,
@@ -864,7 +864,7 @@ const pokemonData = {
       "speed": 90
     }
   },
-  "26": {
+  26: {
     "identifier": "raichu",
     "height": 8,
     "weight": 300,
@@ -897,7 +897,7 @@ const pokemonData = {
       "speed": 110
     }
   },
-  "27": {
+  27: {
     "identifier": "sandshrew",
     "height": 6,
     "weight": 120,
@@ -929,7 +929,7 @@ const pokemonData = {
       "speed": 40
     }
   },
-  "28": {
+  28: {
     "identifier": "sandslash",
     "height": 10,
     "weight": 295,
@@ -961,7 +961,7 @@ const pokemonData = {
       "speed": 65
     }
   },
-  "29": {
+  29: {
     "identifier": "nidoran-f",
     "height": 4,
     "weight": 70,
@@ -994,7 +994,7 @@ const pokemonData = {
       "speed": 41
     }
   },
-  "30": {
+  30: {
     "identifier": "nidorina",
     "height": 8,
     "weight": 200,
@@ -1028,7 +1028,7 @@ const pokemonData = {
       "speed": 56
     }
   },
-  "31": {
+  31: {
     "identifier": "nidoqueen",
     "height": 13,
     "weight": 600,
@@ -1064,7 +1064,7 @@ const pokemonData = {
       "speed": 76
     }
   },
-  "32": {
+  32: {
     "identifier": "nidoran-m",
     "height": 5,
     "weight": 90,
@@ -1097,7 +1097,7 @@ const pokemonData = {
       "speed": 50
     }
   },
-  "33": {
+  33: {
     "identifier": "nidorino",
     "height": 9,
     "weight": 195,
@@ -1131,7 +1131,7 @@ const pokemonData = {
       "speed": 65
     }
   },
-  "34": {
+  34: {
     "identifier": "nidoking",
     "height": 14,
     "weight": 620,
@@ -1167,7 +1167,7 @@ const pokemonData = {
       "speed": 85
     }
   },
-  "35": {
+  35: {
     "identifier": "clefairy",
     "height": 6,
     "weight": 75,
@@ -1201,7 +1201,7 @@ const pokemonData = {
       "speed": 35
     }
   },
-  "36": {
+  36: {
     "identifier": "clefable",
     "height": 13,
     "weight": 400,
@@ -1234,7 +1234,7 @@ const pokemonData = {
       "speed": 60
     }
   },
-  "37": {
+  37: {
     "identifier": "vulpix",
     "height": 6,
     "weight": 99,
@@ -1266,7 +1266,7 @@ const pokemonData = {
       "speed": 65
     }
   },
-  "38": {
+  38: {
     "identifier": "ninetales",
     "height": 11,
     "weight": 199,
@@ -1298,7 +1298,7 @@ const pokemonData = {
       "speed": 100
     }
   },
-  "39": {
+  39: {
     "identifier": "jigglypuff",
     "height": 5,
     "weight": 55,
@@ -1335,7 +1335,7 @@ const pokemonData = {
       "speed": 20
     }
   },
-  "40": {
+  40: {
     "identifier": "wigglytuff",
     "height": 10,
     "weight": 120,
@@ -1371,7 +1371,7 @@ const pokemonData = {
       "speed": 45
     }
   },
-  "41": {
+  41: {
     "identifier": "zubat",
     "height": 8,
     "weight": 75,
@@ -1407,7 +1407,7 @@ const pokemonData = {
       "speed": 55
     }
   },
-  "42": {
+  42: {
     "identifier": "golbat",
     "height": 16,
     "weight": 550,
@@ -1444,7 +1444,7 @@ const pokemonData = {
       "speed": 90
     }
   },
-  "43": {
+  43: {
     "identifier": "oddish",
     "height": 5,
     "weight": 54,
@@ -1481,7 +1481,7 @@ const pokemonData = {
       "speed": 30
     }
   },
-  "44": {
+  44: {
     "identifier": "gloom",
     "height": 8,
     "weight": 86,
@@ -1519,7 +1519,7 @@ const pokemonData = {
       "speed": 40
     }
   },
-  "45": {
+  45: {
     "identifier": "vileplume",
     "height": 12,
     "weight": 186,
@@ -1555,7 +1555,7 @@ const pokemonData = {
       "speed": 50
     }
   },
-  "46": {
+  46: {
     "identifier": "paras",
     "height": 3,
     "weight": 54,
@@ -1590,7 +1590,7 @@ const pokemonData = {
       "speed": 25
     }
   },
-  "47": {
+  47: {
     "identifier": "parasect",
     "height": 10,
     "weight": 295,
@@ -1625,7 +1625,7 @@ const pokemonData = {
       "speed": 30
     }
   },
-  "48": {
+  48: {
     "identifier": "venonat",
     "height": 10,
     "weight": 300,
@@ -1660,7 +1660,7 @@ const pokemonData = {
       "speed": 45
     }
   },
-  "49": {
+  49: {
     "identifier": "venomoth",
     "height": 15,
     "weight": 125,
@@ -1695,7 +1695,7 @@ const pokemonData = {
       "speed": 90
     }
   },
-  "50": {
+  50: {
     "identifier": "diglett",
     "height": 2,
     "weight": 8,
@@ -1727,7 +1727,7 @@ const pokemonData = {
       "speed": 95
     }
   },
-  "51": {
+  51: {
     "identifier": "dugtrio",
     "height": 7,
     "weight": 333,
@@ -1759,7 +1759,7 @@ const pokemonData = {
       "speed": 120
     }
   },
-  "52": {
+  52: {
     "identifier": "meowth",
     "height": 4,
     "weight": 42,
@@ -1791,7 +1791,7 @@ const pokemonData = {
       "speed": 90
     }
   },
-  "53": {
+  53: {
     "identifier": "persian",
     "height": 10,
     "weight": 320,
@@ -1823,7 +1823,7 @@ const pokemonData = {
       "speed": 115
     }
   },
-  "54": {
+  54: {
     "identifier": "psyduck",
     "height": 8,
     "weight": 196,
@@ -1855,7 +1855,7 @@ const pokemonData = {
       "speed": 55
     }
   },
-  "55": {
+  55: {
     "identifier": "golduck",
     "height": 17,
     "weight": 766,
@@ -1887,7 +1887,7 @@ const pokemonData = {
       "speed": 85
     }
   },
-  "56": {
+  56: {
     "identifier": "mankey",
     "height": 5,
     "weight": 280,
@@ -1920,7 +1920,7 @@ const pokemonData = {
       "speed": 70
     }
   },
-  "57": {
+  57: {
     "identifier": "primeape",
     "height": 10,
     "weight": 320,
@@ -1954,7 +1954,7 @@ const pokemonData = {
       "speed": 95
     }
   },
-  "58": {
+  58: {
     "identifier": "growlithe",
     "height": 7,
     "weight": 190,
@@ -1986,7 +1986,7 @@ const pokemonData = {
       "speed": 60
     }
   },
-  "59": {
+  59: {
     "identifier": "arcanine",
     "height": 19,
     "weight": 1550,
@@ -2018,7 +2018,7 @@ const pokemonData = {
       "speed": 95
     }
   },
-  "60": {
+  60: {
     "identifier": "poliwag",
     "height": 6,
     "weight": 124,
@@ -2052,7 +2052,7 @@ const pokemonData = {
       "speed": 90
     }
   },
-  "61": {
+  61: {
     "identifier": "poliwhirl",
     "height": 10,
     "weight": 200,
@@ -2087,7 +2087,7 @@ const pokemonData = {
       "speed": 90
     }
   },
-  "62": {
+  62: {
     "identifier": "poliwrath",
     "height": 13,
     "weight": 540,
@@ -2123,7 +2123,7 @@ const pokemonData = {
       "speed": 70
     }
   },
-  "63": {
+  63: {
     "identifier": "abra",
     "height": 9,
     "weight": 195,
@@ -2156,7 +2156,7 @@ const pokemonData = {
       "speed": 90
     }
   },
-  "64": {
+  64: {
     "identifier": "kadabra",
     "height": 13,
     "weight": 565,
@@ -2190,7 +2190,7 @@ const pokemonData = {
       "speed": 105
     }
   },
-  "65": {
+  65: {
     "identifier": "alakazam",
     "height": 15,
     "weight": 480,
@@ -2223,7 +2223,7 @@ const pokemonData = {
       "speed": 120
     }
   },
-  "66": {
+  66: {
     "identifier": "machop",
     "height": 8,
     "weight": 195,
@@ -2256,7 +2256,7 @@ const pokemonData = {
       "speed": 35
     }
   },
-  "67": {
+  67: {
     "identifier": "machoke",
     "height": 15,
     "weight": 705,
@@ -2290,7 +2290,7 @@ const pokemonData = {
       "speed": 45
     }
   },
-  "68": {
+  68: {
     "identifier": "machamp",
     "height": 16,
     "weight": 1300,
@@ -2323,7 +2323,7 @@ const pokemonData = {
       "speed": 55
     }
   },
-  "69": {
+  69: {
     "identifier": "bellsprout",
     "height": 7,
     "weight": 40,
@@ -2359,7 +2359,7 @@ const pokemonData = {
       "speed": 40
     }
   },
-  "70": {
+  70: {
     "identifier": "weepinbell",
     "height": 10,
     "weight": 64,
@@ -2396,7 +2396,7 @@ const pokemonData = {
       "speed": 55
     }
   },
-  "71": {
+  71: {
     "identifier": "victreebel",
     "height": 17,
     "weight": 155,
@@ -2432,7 +2432,7 @@ const pokemonData = {
       "speed": 70
     }
   },
-  "72": {
+  72: {
     "identifier": "tentacool",
     "height": 9,
     "weight": 455,
@@ -2467,7 +2467,7 @@ const pokemonData = {
       "speed": 70
     }
   },
-  "73": {
+  73: {
     "identifier": "tentacruel",
     "height": 16,
     "weight": 550,
@@ -2502,7 +2502,7 @@ const pokemonData = {
       "speed": 100
     }
   },
-  "74": {
+  74: {
     "identifier": "geodude",
     "height": 4,
     "weight": 200,
@@ -2538,7 +2538,7 @@ const pokemonData = {
       "speed": 20
     }
   },
-  "75": {
+  75: {
     "identifier": "graveler",
     "height": 10,
     "weight": 1050,
@@ -2575,7 +2575,7 @@ const pokemonData = {
       "speed": 35
     }
   },
-  "76": {
+  76: {
     "identifier": "golem",
     "height": 14,
     "weight": 3000,
@@ -2611,7 +2611,7 @@ const pokemonData = {
       "speed": 45
     }
   },
-  "77": {
+  77: {
     "identifier": "ponyta",
     "height": 10,
     "weight": 300,
@@ -2643,7 +2643,7 @@ const pokemonData = {
       "speed": 90
     }
   },
-  "78": {
+  78: {
     "identifier": "rapidash",
     "height": 17,
     "weight": 950,
@@ -2675,7 +2675,7 @@ const pokemonData = {
       "speed": 105
     }
   },
-  "79": {
+  79: {
     "identifier": "slowpoke",
     "height": 12,
     "weight": 360,
@@ -2711,7 +2711,7 @@ const pokemonData = {
       "speed": 15
     }
   },
-  "80": {
+  80: {
     "identifier": "slowbro",
     "height": 16,
     "weight": 785,
@@ -2746,7 +2746,7 @@ const pokemonData = {
       "speed": 30
     }
   },
-  "81": {
+  81: {
     "identifier": "magnemite",
     "height": 3,
     "weight": 60,
@@ -2782,7 +2782,7 @@ const pokemonData = {
       "speed": 45
     }
   },
-  "82": {
+  82: {
     "identifier": "magneton",
     "height": 10,
     "weight": 600,
@@ -2819,7 +2819,7 @@ const pokemonData = {
       "speed": 70
     }
   },
-  "83": {
+  83: {
     "identifier": "farfetchd",
     "height": 8,
     "weight": 150,
@@ -2852,7 +2852,7 @@ const pokemonData = {
       "speed": 60
     }
   },
-  "84": {
+  84: {
     "identifier": "doduo",
     "height": 14,
     "weight": 392,
@@ -2887,7 +2887,7 @@ const pokemonData = {
       "speed": 75
     }
   },
-  "85": {
+  85: {
     "identifier": "dodrio",
     "height": 18,
     "weight": 852,
@@ -2922,7 +2922,7 @@ const pokemonData = {
       "speed": 110
     }
   },
-  "86": {
+  86: {
     "identifier": "seel",
     "height": 11,
     "weight": 900,
@@ -2954,7 +2954,7 @@ const pokemonData = {
       "speed": 45
     }
   },
-  "87": {
+  87: {
     "identifier": "dewgong",
     "height": 17,
     "weight": 1200,
@@ -2989,7 +2989,7 @@ const pokemonData = {
       "speed": 70
     }
   },
-  "88": {
+  88: {
     "identifier": "grimer",
     "height": 9,
     "weight": 300,
@@ -3021,7 +3021,7 @@ const pokemonData = {
       "speed": 25
     }
   },
-  "89": {
+  89: {
     "identifier": "muk",
     "height": 12,
     "weight": 300,
@@ -3053,7 +3053,7 @@ const pokemonData = {
       "speed": 50
     }
   },
-  "90": {
+  90: {
     "identifier": "shellder",
     "height": 3,
     "weight": 40,
@@ -3085,7 +3085,7 @@ const pokemonData = {
       "speed": 40
     }
   },
-  "91": {
+  91: {
     "identifier": "cloyster",
     "height": 15,
     "weight": 1325,
@@ -3120,7 +3120,7 @@ const pokemonData = {
       "speed": 70
     }
   },
-  "92": {
+  92: {
     "identifier": "gastly",
     "height": 13,
     "weight": 1,
@@ -3156,7 +3156,7 @@ const pokemonData = {
       "speed": 80
     }
   },
-  "93": {
+  93: {
     "identifier": "haunter",
     "height": 16,
     "weight": 1,
@@ -3193,7 +3193,7 @@ const pokemonData = {
       "speed": 95
     }
   },
-  "94": {
+  94: {
     "identifier": "gengar",
     "height": 15,
     "weight": 405,
@@ -3229,7 +3229,7 @@ const pokemonData = {
       "speed": 110
     }
   },
-  "95": {
+  95: {
     "identifier": "onix",
     "height": 88,
     "weight": 2100,
@@ -3264,7 +3264,7 @@ const pokemonData = {
       "speed": 70
     }
   },
-  "96": {
+  96: {
     "identifier": "drowzee",
     "height": 10,
     "weight": 324,
@@ -3296,7 +3296,7 @@ const pokemonData = {
       "speed": 42
     }
   },
-  "97": {
+  97: {
     "identifier": "hypno",
     "height": 16,
     "weight": 756,
@@ -3328,7 +3328,7 @@ const pokemonData = {
       "speed": 67
     }
   },
-  "98": {
+  98: {
     "identifier": "krabby",
     "height": 4,
     "weight": 65,
@@ -3360,7 +3360,7 @@ const pokemonData = {
       "speed": 50
     }
   },
-  "99": {
+  99: {
     "identifier": "kingler",
     "height": 13,
     "weight": 600,
@@ -3392,7 +3392,7 @@ const pokemonData = {
       "speed": 75
     }
   },
-  "100": {
+  100: {
     "identifier": "voltorb",
     "height": 5,
     "weight": 104,
@@ -3424,7 +3424,7 @@ const pokemonData = {
       "speed": 100
     }
   },
-  "101": {
+  101: {
     "identifier": "electrode",
     "height": 12,
     "weight": 666,
@@ -3456,7 +3456,7 @@ const pokemonData = {
       "speed": 150
     }
   },
-  "102": {
+  102: {
     "identifier": "exeggcute",
     "height": 4,
     "weight": 25,
@@ -3491,7 +3491,7 @@ const pokemonData = {
       "speed": 40
     }
   },
-  "103": {
+  103: {
     "identifier": "exeggutor",
     "height": 20,
     "weight": 1200,
@@ -3526,7 +3526,7 @@ const pokemonData = {
       "speed": 55
     }
   },
-  "104": {
+  104: {
     "identifier": "cubone",
     "height": 4,
     "weight": 65,
@@ -3558,7 +3558,7 @@ const pokemonData = {
       "speed": 35
     }
   },
-  "105": {
+  105: {
     "identifier": "marowak",
     "height": 10,
     "weight": 450,
@@ -3590,7 +3590,7 @@ const pokemonData = {
       "speed": 45
     }
   },
-  "106": {
+  106: {
     "identifier": "hitmonlee",
     "height": 15,
     "weight": 498,
@@ -3622,7 +3622,7 @@ const pokemonData = {
       "speed": 87
     }
   },
-  "107": {
+  107: {
     "identifier": "hitmonchan",
     "height": 14,
     "weight": 502,
@@ -3654,7 +3654,7 @@ const pokemonData = {
       "speed": 76
     }
   },
-  "108": {
+  108: {
     "identifier": "lickitung",
     "height": 12,
     "weight": 655,
@@ -3686,7 +3686,7 @@ const pokemonData = {
       "speed": 30
     }
   },
-  "109": {
+  109: {
     "identifier": "koffing",
     "height": 6,
     "weight": 10,
@@ -3718,7 +3718,7 @@ const pokemonData = {
       "speed": 35
     }
   },
-  "110": {
+  110: {
     "identifier": "weezing",
     "height": 12,
     "weight": 95,
@@ -3750,7 +3750,7 @@ const pokemonData = {
       "speed": 60
     }
   },
-  "111": {
+  111: {
     "identifier": "rhyhorn",
     "height": 10,
     "weight": 1150,
@@ -3786,7 +3786,7 @@ const pokemonData = {
       "speed": 25
     }
   },
-  "112": {
+  112: {
     "identifier": "rhydon",
     "height": 19,
     "weight": 1200,
@@ -3823,7 +3823,7 @@ const pokemonData = {
       "speed": 40
     }
   },
-  "113": {
+  113: {
     "identifier": "chansey",
     "height": 11,
     "weight": 346,
@@ -3857,7 +3857,7 @@ const pokemonData = {
       "speed": 50
     }
   },
-  "114": {
+  114: {
     "identifier": "tangela",
     "height": 10,
     "weight": 350,
@@ -3889,7 +3889,7 @@ const pokemonData = {
       "speed": 60
     }
   },
-  "115": {
+  115: {
     "identifier": "kangaskhan",
     "height": 22,
     "weight": 800,
@@ -3919,7 +3919,7 @@ const pokemonData = {
       "speed": 90
     }
   },
-  "116": {
+  116: {
     "identifier": "horsea",
     "height": 4,
     "weight": 80,
@@ -3952,7 +3952,7 @@ const pokemonData = {
       "speed": 60
     }
   },
-  "117": {
+  117: {
     "identifier": "seadra",
     "height": 12,
     "weight": 250,
@@ -3986,7 +3986,7 @@ const pokemonData = {
       "speed": 85
     }
   },
-  "118": {
+  118: {
     "identifier": "goldeen",
     "height": 6,
     "weight": 150,
@@ -4018,7 +4018,7 @@ const pokemonData = {
       "speed": 63
     }
   },
-  "119": {
+  119: {
     "identifier": "seaking",
     "height": 13,
     "weight": 390,
@@ -4050,7 +4050,7 @@ const pokemonData = {
       "speed": 68
     }
   },
-  "120": {
+  120: {
     "identifier": "staryu",
     "height": 8,
     "weight": 345,
@@ -4082,7 +4082,7 @@ const pokemonData = {
       "speed": 85
     }
   },
-  "121": {
+  121: {
     "identifier": "starmie",
     "height": 11,
     "weight": 800,
@@ -4117,7 +4117,7 @@ const pokemonData = {
       "speed": 115
     }
   },
-  "122": {
+  122: {
     "identifier": "mr-mime",
     "height": 13,
     "weight": 545,
@@ -4150,7 +4150,7 @@ const pokemonData = {
       "speed": 90
     }
   },
-  "123": {
+  123: {
     "identifier": "scyther",
     "height": 15,
     "weight": 560,
@@ -4186,7 +4186,7 @@ const pokemonData = {
       "speed": 105
     }
   },
-  "124": {
+  124: {
     "identifier": "jynx",
     "height": 14,
     "weight": 406,
@@ -4221,7 +4221,7 @@ const pokemonData = {
       "speed": 95
     }
   },
-  "125": {
+  125: {
     "identifier": "electabuzz",
     "height": 11,
     "weight": 300,
@@ -4255,7 +4255,7 @@ const pokemonData = {
       "speed": 105
     }
   },
-  "126": {
+  126: {
     "identifier": "magmar",
     "height": 13,
     "weight": 445,
@@ -4289,7 +4289,7 @@ const pokemonData = {
       "speed": 93
     }
   },
-  "127": {
+  127: {
     "identifier": "pinsir",
     "height": 15,
     "weight": 550,
@@ -4319,7 +4319,7 @@ const pokemonData = {
       "speed": 85
     }
   },
-  "128": {
+  128: {
     "identifier": "tauros",
     "height": 14,
     "weight": 884,
@@ -4349,7 +4349,7 @@ const pokemonData = {
       "speed": 110
     }
   },
-  "129": {
+  129: {
     "identifier": "magikarp",
     "height": 9,
     "weight": 100,
@@ -4381,7 +4381,7 @@ const pokemonData = {
       "speed": 80
     }
   },
-  "130": {
+  130: {
     "identifier": "gyarados",
     "height": 65,
     "weight": 2350,
@@ -4416,7 +4416,7 @@ const pokemonData = {
       "speed": 81
     }
   },
-  "131": {
+  131: {
     "identifier": "lapras",
     "height": 25,
     "weight": 2200,
@@ -4449,7 +4449,7 @@ const pokemonData = {
       "speed": 60
     }
   },
-  "132": {
+  132: {
     "identifier": "ditto",
     "height": 3,
     "weight": 40,
@@ -4479,7 +4479,7 @@ const pokemonData = {
       "speed": 48
     }
   },
-  "133": {
+  133: {
     "identifier": "eevee",
     "height": 3,
     "weight": 65,
@@ -4518,7 +4518,7 @@ const pokemonData = {
       "speed": 55
     }
   },
-  "134": {
+  134: {
     "identifier": "vaporeon",
     "height": 10,
     "weight": 290,
@@ -4550,7 +4550,7 @@ const pokemonData = {
       "speed": 65
     }
   },
-  "135": {
+  135: {
     "identifier": "jolteon",
     "height": 8,
     "weight": 245,
@@ -4582,7 +4582,7 @@ const pokemonData = {
       "speed": 130
     }
   },
-  "136": {
+  136: {
     "identifier": "flareon",
     "height": 9,
     "weight": 250,
@@ -4614,7 +4614,7 @@ const pokemonData = {
       "speed": 65
     }
   },
-  "137": {
+  137: {
     "identifier": "porygon",
     "height": 8,
     "weight": 365,
@@ -4647,7 +4647,7 @@ const pokemonData = {
       "speed": 40
     }
   },
-  "138": {
+  138: {
     "identifier": "omanyte",
     "height": 4,
     "weight": 75,
@@ -4682,7 +4682,7 @@ const pokemonData = {
       "speed": 35
     }
   },
-  "139": {
+  139: {
     "identifier": "omastar",
     "height": 10,
     "weight": 350,
@@ -4717,7 +4717,7 @@ const pokemonData = {
       "speed": 55
     }
   },
-  "140": {
+  140: {
     "identifier": "kabuto",
     "height": 5,
     "weight": 115,
@@ -4752,7 +4752,7 @@ const pokemonData = {
       "speed": 55
     }
   },
-  "141": {
+  141: {
     "identifier": "kabutops",
     "height": 13,
     "weight": 405,
@@ -4787,7 +4787,7 @@ const pokemonData = {
       "speed": 80
     }
   },
-  "142": {
+  142: {
     "identifier": "aerodactyl",
     "height": 18,
     "weight": 590,
@@ -4820,7 +4820,7 @@ const pokemonData = {
       "speed": 130
     }
   },
-  "143": {
+  143: {
     "identifier": "snorlax",
     "height": 21,
     "weight": 4600,
@@ -4852,7 +4852,7 @@ const pokemonData = {
       "speed": 30
     }
   },
-  "144": {
+  144: {
     "identifier": "articuno",
     "height": 17,
     "weight": 554,
@@ -4885,7 +4885,7 @@ const pokemonData = {
       "speed": 85
     }
   },
-  "145": {
+  145: {
     "identifier": "zapdos",
     "height": 16,
     "weight": 526,
@@ -4918,7 +4918,7 @@ const pokemonData = {
       "speed": 100
     }
   },
-  "146": {
+  146: {
     "identifier": "moltres",
     "height": 20,
     "weight": 600,
@@ -4951,7 +4951,7 @@ const pokemonData = {
       "speed": 90
     }
   },
-  "147": {
+  147: {
     "identifier": "dratini",
     "height": 18,
     "weight": 33,
@@ -4984,7 +4984,7 @@ const pokemonData = {
       "speed": 50
     }
   },
-  "148": {
+  148: {
     "identifier": "dragonair",
     "height": 40,
     "weight": 165,
@@ -5018,7 +5018,7 @@ const pokemonData = {
       "speed": 70
     }
   },
-  "149": {
+  149: {
     "identifier": "dragonite",
     "height": 22,
     "weight": 2100,
@@ -5054,7 +5054,7 @@ const pokemonData = {
       "speed": 80
     }
   },
-  "150": {
+  150: {
     "identifier": "mewtwo",
     "height": 20,
     "weight": 1220,
@@ -5084,7 +5084,7 @@ const pokemonData = {
       "speed": 130
     }
   },
-  "151": {
+  151: {
     "identifier": "mew",
     "height": 4,
     "weight": 40,
@@ -5114,7 +5114,7 @@ const pokemonData = {
       "speed": 100
     }
   },
-  "152": {
+  152: {
     "identifier": "chikorita",
     "height": 9,
     "weight": 64,
@@ -5147,7 +5147,7 @@ const pokemonData = {
       "speed": 45
     }
   },
-  "153": {
+  153: {
     "identifier": "bayleef",
     "height": 12,
     "weight": 158,
@@ -5181,7 +5181,7 @@ const pokemonData = {
       "speed": 60
     }
   },
-  "154": {
+  154: {
     "identifier": "meganium",
     "height": 18,
     "weight": 1005,
@@ -5214,7 +5214,7 @@ const pokemonData = {
       "speed": 80
     }
   },
-  "155": {
+  155: {
     "identifier": "cyndaquil",
     "height": 5,
     "weight": 79,
@@ -5248,7 +5248,7 @@ const pokemonData = {
       "speed": 65
     }
   },
-  "156": {
+  156: {
     "identifier": "quilava",
     "height": 9,
     "weight": 190,
@@ -5283,7 +5283,7 @@ const pokemonData = {
       "speed": 80
     }
   },
-  "157": {
+  157: {
     "identifier": "typhlosion",
     "height": 17,
     "weight": 795,
@@ -5316,7 +5316,7 @@ const pokemonData = {
       "speed": 100
     }
   },
-  "158": {
+  158: {
     "identifier": "totodile",
     "height": 6,
     "weight": 95,
@@ -5349,7 +5349,7 @@ const pokemonData = {
       "speed": 43
     }
   },
-  "159": {
+  159: {
     "identifier": "croconaw",
     "height": 11,
     "weight": 250,
@@ -5383,7 +5383,7 @@ const pokemonData = {
       "speed": 58
     }
   },
-  "160": {
+  160: {
     "identifier": "feraligatr",
     "height": 23,
     "weight": 888,
@@ -5416,7 +5416,7 @@ const pokemonData = {
       "speed": 78
     }
   },
-  "161": {
+  161: {
     "identifier": "sentret",
     "height": 8,
     "weight": 60,
@@ -5448,7 +5448,7 @@ const pokemonData = {
       "speed": 20
     }
   },
-  "162": {
+  162: {
     "identifier": "furret",
     "height": 18,
     "weight": 325,
@@ -5480,7 +5480,7 @@ const pokemonData = {
       "speed": 90
     }
   },
-  "163": {
+  163: {
     "identifier": "hoothoot",
     "height": 7,
     "weight": 212,
@@ -5515,7 +5515,7 @@ const pokemonData = {
       "speed": 50
     }
   },
-  "164": {
+  164: {
     "identifier": "noctowl",
     "height": 16,
     "weight": 408,
@@ -5550,7 +5550,7 @@ const pokemonData = {
       "speed": 70
     }
   },
-  "165": {
+  165: {
     "identifier": "ledyba",
     "height": 10,
     "weight": 108,
@@ -5585,7 +5585,7 @@ const pokemonData = {
       "speed": 55
     }
   },
-  "166": {
+  166: {
     "identifier": "ledian",
     "height": 14,
     "weight": 356,
@@ -5620,7 +5620,7 @@ const pokemonData = {
       "speed": 85
     }
   },
-  "167": {
+  167: {
     "identifier": "spinarak",
     "height": 5,
     "weight": 85,
@@ -5655,7 +5655,7 @@ const pokemonData = {
       "speed": 30
     }
   },
-  "168": {
+  168: {
     "identifier": "ariados",
     "height": 11,
     "weight": 335,
@@ -5690,7 +5690,7 @@ const pokemonData = {
       "speed": 40
     }
   },
-  "169": {
+  169: {
     "identifier": "crobat",
     "height": 18,
     "weight": 750,
@@ -5726,7 +5726,7 @@ const pokemonData = {
       "speed": 130
     }
   },
-  "170": {
+  170: {
     "identifier": "chinchou",
     "height": 5,
     "weight": 120,
@@ -5761,7 +5761,7 @@ const pokemonData = {
       "speed": 67
     }
   },
-  "171": {
+  171: {
     "identifier": "lanturn",
     "height": 12,
     "weight": 225,
@@ -5796,7 +5796,7 @@ const pokemonData = {
       "speed": 67
     }
   },
-  "172": {
+  172: {
     "identifier": "pichu",
     "height": 3,
     "weight": 20,
@@ -5829,7 +5829,7 @@ const pokemonData = {
       "speed": 60
     }
   },
-  "173": {
+  173: {
     "identifier": "cleffa",
     "height": 3,
     "weight": 30,
@@ -5862,7 +5862,7 @@ const pokemonData = {
       "speed": 15
     }
   },
-  "174": {
+  174: {
     "identifier": "igglybuff",
     "height": 3,
     "weight": 10,
@@ -5898,7 +5898,7 @@ const pokemonData = {
       "speed": 15
     }
   },
-  "175": {
+  175: {
     "identifier": "togepi",
     "height": 3,
     "weight": 15,
@@ -5931,7 +5931,7 @@ const pokemonData = {
       "speed": 20
     }
   },
-  "176": {
+  176: {
     "identifier": "togetic",
     "height": 6,
     "weight": 32,
@@ -5968,7 +5968,7 @@ const pokemonData = {
       "speed": 40
     }
   },
-  "177": {
+  177: {
     "identifier": "natu",
     "height": 2,
     "weight": 20,
@@ -6003,7 +6003,7 @@ const pokemonData = {
       "speed": 70
     }
   },
-  "178": {
+  178: {
     "identifier": "xatu",
     "height": 15,
     "weight": 150,
@@ -6038,7 +6038,7 @@ const pokemonData = {
       "speed": 95
     }
   },
-  "179": {
+  179: {
     "identifier": "mareep",
     "height": 6,
     "weight": 78,
@@ -6071,7 +6071,7 @@ const pokemonData = {
       "speed": 35
     }
   },
-  "180": {
+  180: {
     "identifier": "flaaffy",
     "height": 8,
     "weight": 133,
@@ -6105,7 +6105,7 @@ const pokemonData = {
       "speed": 45
     }
   },
-  "181": {
+  181: {
     "identifier": "ampharos",
     "height": 14,
     "weight": 615,
@@ -6138,7 +6138,7 @@ const pokemonData = {
       "speed": 55
     }
   },
-  "182": {
+  182: {
     "identifier": "bellossom",
     "height": 4,
     "weight": 58,
@@ -6171,7 +6171,7 @@ const pokemonData = {
       "speed": 50
     }
   },
-  "183": {
+  183: {
     "identifier": "marill",
     "height": 4,
     "weight": 85,
@@ -6208,7 +6208,7 @@ const pokemonData = {
       "speed": 40
     }
   },
-  "184": {
+  184: {
     "identifier": "azumarill",
     "height": 8,
     "weight": 285,
@@ -6244,7 +6244,7 @@ const pokemonData = {
       "speed": 50
     }
   },
-  "185": {
+  185: {
     "identifier": "sudowoodo",
     "height": 12,
     "weight": 380,
@@ -6276,7 +6276,7 @@ const pokemonData = {
       "speed": 30
     }
   },
-  "186": {
+  186: {
     "identifier": "politoed",
     "height": 11,
     "weight": 339,
@@ -6309,7 +6309,7 @@ const pokemonData = {
       "speed": 70
     }
   },
-  "187": {
+  187: {
     "identifier": "hoppip",
     "height": 4,
     "weight": 5,
@@ -6345,7 +6345,7 @@ const pokemonData = {
       "speed": 50
     }
   },
-  "188": {
+  188: {
     "identifier": "skiploom",
     "height": 6,
     "weight": 10,
@@ -6382,7 +6382,7 @@ const pokemonData = {
       "speed": 80
     }
   },
-  "189": {
+  189: {
     "identifier": "jumpluff",
     "height": 8,
     "weight": 30,
@@ -6418,7 +6418,7 @@ const pokemonData = {
       "speed": 110
     }
   },
-  "190": {
+  190: {
     "identifier": "aipom",
     "height": 8,
     "weight": 115,
@@ -6450,7 +6450,7 @@ const pokemonData = {
       "speed": 85
     }
   },
-  "191": {
+  191: {
     "identifier": "sunkern",
     "height": 3,
     "weight": 18,
@@ -6482,7 +6482,7 @@ const pokemonData = {
       "speed": 30
     }
   },
-  "192": {
+  192: {
     "identifier": "sunflora",
     "height": 8,
     "weight": 85,
@@ -6514,7 +6514,7 @@ const pokemonData = {
       "speed": 30
     }
   },
-  "193": {
+  193: {
     "identifier": "yanma",
     "height": 12,
     "weight": 380,
@@ -6549,7 +6549,7 @@ const pokemonData = {
       "speed": 95
     }
   },
-  "194": {
+  194: {
     "identifier": "wooper",
     "height": 4,
     "weight": 85,
@@ -6584,7 +6584,7 @@ const pokemonData = {
       "speed": 15
     }
   },
-  "195": {
+  195: {
     "identifier": "quagsire",
     "height": 14,
     "weight": 750,
@@ -6619,7 +6619,7 @@ const pokemonData = {
       "speed": 35
     }
   },
-  "196": {
+  196: {
     "identifier": "espeon",
     "height": 9,
     "weight": 265,
@@ -6651,7 +6651,7 @@ const pokemonData = {
       "speed": 110
     }
   },
-  "197": {
+  197: {
     "identifier": "umbreon",
     "height": 10,
     "weight": 270,
@@ -6683,7 +6683,7 @@ const pokemonData = {
       "speed": 65
     }
   },
-  "198": {
+  198: {
     "identifier": "murkrow",
     "height": 5,
     "weight": 21,
@@ -6718,7 +6718,7 @@ const pokemonData = {
       "speed": 91
     }
   },
-  "199": {
+  199: {
     "identifier": "slowking",
     "height": 20,
     "weight": 795,

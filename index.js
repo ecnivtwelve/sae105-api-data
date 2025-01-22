@@ -106,13 +106,17 @@ for (let i = 0; i < Object.keys(originalData).length; i++) {
                 },
               };
 
-              finalData[i] = newElem;
+              finalData[parseInt(i)] = newElem;
 
               if (Object.keys(originalData).length >= 199) {
                 // Génère le fichier final quand on a fini le tour
                 fs.writeFileSync(
                   GEN_FILENAME,
-                  "const pokemonData = " + JSON.stringify(finalData, null, 2)
+                  "const pokemonData = " +
+                    JSON.stringify(finalData, null, 2).replace(
+                      /"(\d+)":/g,
+                      "$1:"
+                    )
                 );
               }
             });
